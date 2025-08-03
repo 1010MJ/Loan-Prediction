@@ -1,5 +1,5 @@
 
-# Loan Default Risk Prediction 🏦📊
+# Loan Approval Prediction Using Machine Learning 🏦📊
 
 A machine learning project to predict loan approval status based on applicant financial and personal information. This model aids lenders in automating decisions and assessing applicant risk with higher accuracy.
 
